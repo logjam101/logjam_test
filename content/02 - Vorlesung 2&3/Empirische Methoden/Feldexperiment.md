@@ -1,0 +1,8 @@
+- Feldexperiment: Hypothesen über Kausalzusammenhänge (Wenn-DannBeziehungen) werden in ihrem natürlichen Umfeld erforscht
+	- Manipulation unabhängiger Variablen durch die Forschenden, z.B. Auswahl einer bestimmten Projektgröße
+	- Varianten von Untersuchungsobjekten beobachten
+	- Beobachtung in einer echten und realen (nicht kontrollierten) Umgebung
+	- das Verhalten selbst wird untersucht
+	- Umgebungsvariablen können geändert werden, wodurch unterschiedliche Szenarien beobachtet werden können
+	- Beispiel: Studenten dürfen sich eines von 2 Sorten mit verschiedenen Verpackungen Süßigkeiten aussuchen --> An verschiedenen Tagen mit unterschiedlichen Durchläufen durchspiele
+	- Beispiel: Szenario im Supermarkt: Produkte an Kasse vs. Produkte in der Mitte des Supermarktes vs. Produkte im Regal --> Frage: Bei welcher Positionierung ist die Anzahl der Käufe des Produktes groß/niedrig?

@@ -1,0 +1,9 @@
+- Funktionsintegration
+	- Aufgaben werden informationstechnisch miteinander verknüpft (z.B. Trennung von Konstruktion und Kalkulation).
+- Prozess-/Vorgangsintegration (1.3)
+	- Prozesse bzw. Vorgänge werden aufeinander abgestimmt (z.B. Kundenauftragsbearbeitung und Materialfluss).
+- Methodenintegration (1.4)
+	- Die benutzten Methoden werden aufeinander abgestimmt
+- Programmintegration (1.5)
+	- Benutzerschnittstelle (Software-Ergonomie)
+	- Medienintegration & Geräteintegration (Telefon, Fax, Computer)

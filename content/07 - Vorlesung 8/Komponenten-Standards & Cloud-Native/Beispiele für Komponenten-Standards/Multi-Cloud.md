@@ -1,0 +1,3 @@
+- Einsatz mehrerer Cloud-Lösungen gleichzeitig (SaaS, IaaS, PaaS gleichzeitig)
+- Gefahr: Isolierte Teams, die Cloud-Lösungen betreuen
+	- Schwere Aufgabe, mehrere Clouds miteinander zu integrieren

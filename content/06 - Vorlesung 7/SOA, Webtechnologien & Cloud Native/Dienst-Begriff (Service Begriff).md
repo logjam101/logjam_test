@@ -1,0 +1,6 @@
+- Betriebswirtschaftlich orientierter Service-Begriff: „Dienstleistung“ in Abgrenzung zur Sachleistung (in Kapitel Anwendungssysteme)
+	- Dienstleistungsanbieter stellt Fähigkeit zur Leistungserbringung bereit (Immaterialität)
+	- Dienstleistungsnehmer wird in den Erstellungsprozess integriert
+	- Dienstleistung = Ohne IT || IT-assistiert || IT-basiert
+- Technologieorientierter Service-Begriff: „Software-Dienst“ (IT-basiert) als softwaretechnisch realisiertes Artefakt zum Anbieten einer Funktionalität, z.B. Web Service
+	- Angebot von Schnittstelle zu einer Funktionalität oder Softwarekomponente

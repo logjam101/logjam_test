@@ -1,0 +1,5 @@
+- Entsorgbare Infrastruktur-Elemente (VM images, Container)
+- Globale Skalierbarkeit (multi-regionale Verteilung
+- Entsorgbare Architektur (Refaktorisierung)
+- Einsatz von Mehrwert schaffenden Cloud-Diensten
+- Polyglotte Cloud: Wahl eines Providers Komponente für Komponente (vs. eher monolithische Multi-Cloud)

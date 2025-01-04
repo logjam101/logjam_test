@@ -1,0 +1,8 @@
+- Public Cloud (External Cloud): Anbieter und potenzielle Nutzer gehören nicht derselben organisatorischen Einheit an
+- Private Cloud (Internal Cloud, Intra Cloud): Anbieter und Nutzer gehören derselben organisatorischen Einheit an
+	- Kontrolle über die Daten bleibt innerhalb der Organisation
+	- Erleichtert die Einhaltung regulatorischer Anforderungen (Weitergabe von Daten)
+- Hybrid Cloud: Dienste aus der Public und Private Cloud werden zusammen genutzt
+	- Regelbetrieb über die privaten Ressourcen
+- Community Cloud: Cloud-Infrastruktur gehört mehreren Organisationen gemeinsam
+	- Betrieb durch ein Mitglied der Community oder durch einen externen Anbieter

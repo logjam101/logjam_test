@@ -1,0 +1,5 @@
+- enge Verflechtung von Daten und Operationen aufheben
+- Daten als Betriebsmittel organisieren
+- Datenbank (DB) = Sammlung von Daten = Inhalt
+- Datenbankmanagementsysteme (DBMS) = Programm zur Kontrolle des Datenzugriffs (das bezeichnet man umgangssprachlich als Datenbank) Wenn wir Datenbank sagen, meinen wir eig. DBMS
+- Datenbanksystem (DBS) = Datenbank + DBMS

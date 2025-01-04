@@ -1,0 +1,8 @@
+- Datenintegration durch Dateiweitergabe
+	- vermeidet mehrfache Datenerfassung
+	- erfordert ein einheitliches Datenformat (Standardisierungen)
+- Datenintegration durch gemeinsame Datenbanken [[Eigenschaften von Datenbanken]]
+	- verhindert zusätzlich Redundanzen
+	- ermöglicht zusätzlich die Konsistenzüberwachung & die Transaktionsverwaltung
+- Weitere Ansätze zur Datenintegration (auf DB basierend)
+	- Dokumenten-, Content-, und Wissensmanagement-Systeme

@@ -1,0 +1,5 @@
+- Alternative zu Komponentenstandards, die sehr kostengünstig ist
+- Web-Server:
+	- Grundlegende Funktionsweise & Beispiel-Architekturen für Web-Applikationen
+- Web-Services:
+	- Web-Service-Dreieck, WSDL, SOAP, UDDI

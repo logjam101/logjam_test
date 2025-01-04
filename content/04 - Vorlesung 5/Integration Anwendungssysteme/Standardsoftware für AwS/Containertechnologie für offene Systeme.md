@@ -1,0 +1,3 @@
+- Container als virtualisierte Systemumgebung nutzen, die von anderen Containern isoliert sind
+- Anwendungen, die in einem Container laufen, sehen nur Anwendungen im gleichen Container
+- Aber: man kann unterschiedliche Container miteinander integrieren → Integration über Containergrenzen hinweg erfolgt über Orchestrierungslösungen

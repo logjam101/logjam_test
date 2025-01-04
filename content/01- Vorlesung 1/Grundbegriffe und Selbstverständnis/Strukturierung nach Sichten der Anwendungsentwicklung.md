@@ -1,0 +1,14 @@
+Beschreibung des AwS aus unterschiedlichen, sich ergänzenden Sichten:
+- Datensicht
+	- Beschreibung der Daten aller Informationsobjekte
+		- Konzeptuelles DB-Schema (ER, UML): Fachkonzeptebene
+		- Logische DB-Schema (z.B. relationales Datenmodell): DV-Konzept Ebene
+- Funktionssicht
+	- Beschreibung der Elemente, die Informationen austauschen und transformieren
+	- Hierarchischer Funktionsbaum (Zerlegung in Teilfunktionen); Detaillierungsgrad von Ebene abhängig
+- Steuerungs- (Prozess-) sicht
+	- Beschreibung der Abläufe und Interaktionen
+	- Prozessmodelle, z.B. ereignisgesteuerte Prozessketten
+- Organisationssicht
+	- Organisationseinheiten, Ressourcen, Maschinen
+	- Organigramme

@@ -1,0 +1,5 @@
+- Integriertes Gesamtsystem für alle wesentlichen Funktionen der Administration, Disposition und Führung
+- Basissystem und funktionsbezogene Komponenten wie
+	- Beschaffung, Controlling, Externes Rechnungswesen, Produktionsplanung und - steuerung, Projektmanagement, Vertrieb
+- In der Regel: Datenintegration durch gemeinsame Datenbank & Erweiterung über Unternehmensgrenzen hinaus
+- Sind geschlossene Systeme

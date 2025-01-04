@@ -1,0 +1,12 @@
+- On-demand self-service: Diensterbringung auf Anforderung
+	- Dienste selbstständig vom Konsumenten nutzbar
+	- keine menschliche Interaktion mit dem Anbieter erforderlich
+- Broad network access: Netzwerkbasierter Zugang
+- Resource pooling
+	- Ressourcen in Pools verfügbar & Parallele Diensterbringung für mehrere Nutzer
+- Rapid elasticity: Elastizität
+	- Ressourcen werden schnell &in verschiedenen Quantitäten zur Verfügung gestellt
+	- Illusion unendlich verfügbarer Ressourcen, einfache Skalierung der Systeme
+- Measured service: Messbarkeit
+	- Dienste sind quantitativ messbar, z.B. für nutzungsabhängige Abrechnung
+	- Dienste sind qualitativ messbar, z.B. für Validierung der Dienstqualität

@@ -1,0 +1,12 @@
+Universal Description, Discovery & Integration
+- Namensdienst und Interface Repository
+	- globaler Web-Service Verzeichnisdienst
+	- Mehrere UDDI Knoten mit Replikation, z.B. IBM, SAP, HP, Microsoft
+- Kommunikation mit UDDI via SOAP und WSDL und über Web-Interface
+- Ermöglicht strukturierte Suche und Integration
+	- Menschen können Dienst für die Anwendungsintegration suchen
+	- Software kann suchen (automatische Integration)
+- Dienste:
+	- white pages: allgemeine Informationen über Unternehmen
+	- yellow pages: Kategorisierung von Unternehmen nach Branchen
+	- green pages: technische Informationen über Web Service

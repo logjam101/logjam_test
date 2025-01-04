@@ -1,0 +1,11 @@
+- kapseln Geschäftslogik in eigenständige Module
+- haben überschaubare Größenordnung
+- trennen Zuständigkeiten (funktionale und technische/infrastrukturelle Teile)
+- einfach einsetzbar und kombinierbar
+- unternehmensweit und unternehmensübergreifbar nutzbar
+- einfach wiederverwendbar & austauschbar
+- fördern schnelle Applikationsentwicklung
+- dienen der flexiblen Verteilung von Software
+- können individuell verbessert werden
+- reduzieren die Total Cost of Ownership
+- können als Produkte käuflich erworben werden

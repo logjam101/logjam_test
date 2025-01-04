@@ -1,0 +1,14 @@
+- Methode zur Analyse von Texten
+- Unterschied zur [[Synopse]]:
+	- Synopse = Gegenüberstellung, Bewertung und Analyse von MEHREREN Textquellen zu einer bestimmten Forschungsfrage.
+	- Eigene Meinung bzw. Sicht kommt bei Synopse dazu, was bei der Inhaltsanalyse nicht der Fall ist
+	- Inhaltsanalyse: Ausarbeitung relevanter Punkte aus EINEM Text/Quelle
+- Ablaufmodell einer zusammenfassenden Inhaltsanalyse:
+	- Schritt: Bestimmung der Analyseeinheiten (welche Texte will ich analysieren)
+	- Schritt: Paraphrasierung der inhaltstragenden Textstellen (irreleva. wegstreichen)
+	- Schritt: Bestimmung des angestrebten Abstraktionsniveaus und Generalisierung der Paraphrasen unter diesem Abstraktionsniveau
+	- Schritt: erste Reduktion durch Selektion; Streichen bedeutungsgleicher Paraphrasen (Z3-Regeln = Löschung von Duplikaten)
+	- Schritt: zweite Reduktion durch Bündelung; Konstruktion; Integration von Paraphrasen auf dem angestrebten Abstraktionsniveau (Z4-Regeln = Prioritäten setzen)
+	- Schritt: Zusammenstellung der neuen Aussagen als Kategoriensystem
+	- Schritt: Rücküberprüfung des zusammenfassenden Kategoriensystems am Ausgangsmaterial
+[[Methodenpluralismus in der Wirtschaftsinformatik]]

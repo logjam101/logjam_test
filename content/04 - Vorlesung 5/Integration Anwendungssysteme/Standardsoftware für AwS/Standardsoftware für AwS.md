@@ -1,0 +1,8 @@
+- Realisierung von Teil-AwS durch Standardsoftware
+- Vorteile:
+	- Wiederverwendung führt zur Kostenersparnis und erhöht Zuverlässigkeit
+	- Standardisierung vereinfacht Systementwicklung
+	- Erfordert aber: Konfiguration, Parametrierung, Programmierung von Spezialfunktionen, Integration
+- Klassischerweise Teil-AwS von einem einzigen Softwarehersteller
+- Integriertes Gesamtsystem (ERP-System) aus unterschiedlichen Modulen [[ERP-System (Enterprise Resource Planning)]]
+- [[Middleware (offene Architektur)]]

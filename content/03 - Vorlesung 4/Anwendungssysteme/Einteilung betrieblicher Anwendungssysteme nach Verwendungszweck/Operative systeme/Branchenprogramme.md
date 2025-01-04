@@ -1,0 +1,4 @@
+- Z.B. Bildungswesen: Schulverwaltung, Seminare/Kursverwaltung
+- OLAT & LSF gehören zum Bildungswesen (Kurse verwalten) z.B.: Prüfungsverwaltung
+- Gesundheitswesen: DEMIS-Architektur
+- 

@@ -1,0 +1,23 @@
+- Protokoll zum Austausch strukturierter, typisierter Informationen auf der Basis von XML / XML-Schema (= Möglichkeit Datensicherheit bei Kommunikation einzuhalten)
+- Transport von Nachrichten via HTTP / SMTP möglich und üblich
+	- Vorteil: durch Firewalls durchgängig
+	- Nachteil: sehr große Nachrichtenpakete (durch ASCII/XML)
+- Spezifiziert einen Remote Procedure Call (RPC)
+	- Anfrage und Rückantwort via HTTP Request / Reply
+	- Es werden SOAP-Nachrichten in XML ausgetauscht
+	- SOAP Envelope: beschreibt den Nachrichtenaufbau durch
+		- SOAP Headers (optional) z.B. für Authentication, Transaction Management,
+		- SOAP Body: Nutzdaten, z.B. Methodenaufruf & Argumente
+![[Pasted image 20240226215426.png]]
+### SOAP Messaging
+- SOAP unterstützt außer RPC auch die Interaktion durch Nachrichten (Messaging) in verschiedenen Formen
+- Interaktionsmuster:
+	- one-way (fire-and-forget): Service bekommt Nachricht, liefert aber keine Antwort
+	- request-response: Frage-Antwort-Muster
+	- Call-Back Kommunikation (Rückrufprinzip, verzögerte Antwort):
+		- notification: Nachricht vom Service zum Client
+		- notification-response: Nachricht mit Rücknachricht vom Client
+- Unterschied zwischen Messaging und RPC in den APIs
+	- Messages werden durch generische Methoden realisiert
+	- Nachrichtenaufbau durch Anwendungssoftware
+	- RPC kann automatisch aus Signatur oder (.NET) generiert werden

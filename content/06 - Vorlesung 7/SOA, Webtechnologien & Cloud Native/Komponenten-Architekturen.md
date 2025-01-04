@@ -1,0 +1,9 @@
+- Komponente wird in eine Komponenten-Architektur eingebettet = koppeln
+- Anforderungen an eine Komponenten-Architektur:
+	- einfache Kommunikation der Komponenten und Teilsysteme
+	- Kommunikation sowohl auf
+		- Systemebene, Unternehmensweit, Unternehmensübergreifend
+	- Strukturierung der Zusammenhänge zwischen Komponenten und Systemen
+	- einfache und flexible Änderung, Verbesserung, Erweiterung
+	- einfache Integration bestehender Komponenten
+	- Anforderungen: Robustheit, Sicherheit, Skalierbarkeit, Performance Zuverlässigkeit

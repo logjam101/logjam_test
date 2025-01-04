@@ -1,0 +1,18 @@
+- Dauerhafte Speicherung (Persistenz) und Ausfallsicherheit
+	- Daten bleiben nach Programmende, Systemausfall oder Headcrash erhalten
+		- Redundante Speicherung & Recovery nach Ausfall
+- Verwaltung großer Datenmengen
+	- Speicherung auf Sekundär- oder Tertiärspeichern
+- Redundanzfrei und Konsistenzsichernd
+	- Jedes Datenelement wird einmal gespeichert
+	- Konsistenzbedingungen werden überprüft (Datenintegrität)
+- Flexibler Zugriff (Aktualisierung und Abfrage) durch mächtige Sprachen
+	- SQL = weit verbreitet für relationale DBMS
+- Effizienter & schneller Zugriff auf Daten (viele Zugriffe pro Zeiteinheit)
+- Mehrbenutzerbetrieb
+	- gleichzeitiger Zugriff verschiedener Apps & Benutzer auf gleiche Datenbestände
+	- Synchronisation zur Vermeidung von Fehlern durch gegenseitige Beeinflussung
+- Zugriffskontrolle
+- Kopplung mit Anwendungssystemen
+	- Schnittstellen & Integration in Programmiersprachen
+[[Zentrale Idee von Datenbanken]]

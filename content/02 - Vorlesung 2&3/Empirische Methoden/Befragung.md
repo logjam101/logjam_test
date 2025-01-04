@@ -1,0 +1,10 @@
+- Befragung von Teilnehmern zur Ermittlung von dessen Einstellungen, Meinungen, Wissen und Verhaltensweisen
+	- Persönliche Befragung 
+	- Telefonische Befragung 
+	- Online-Befragung (z.B.: Evaluation am Ende des Semesters) 
+	- Textbefragung (z.B.: Fragebögen)
+- Problem:
+	- Fragestellung kann Antwort beeinflussen (Suggestivfrage)
+	- Falsche & Lückenhafte Angaben möglich (bei Fragebögen)
+	- Feedback ist subjektiv
+- Nicht zu verwechseln mit Interviewtechnik!

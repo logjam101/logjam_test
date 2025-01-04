@@ -1,0 +1,5 @@
+- einheitliches Programmiermodell zur Erstellung verteilter XML-basierter Web-Apps
+- Besteht aus:
+	- Laufzeitumgebung CLR (Common Language Runtime)
+	- Klassenbibliothek Basisklassen
+	- Web Applikationsplattform: Web-Forms Web Services

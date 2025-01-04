@@ -1,0 +1,6 @@
+- Auch: Review, Literaturstudie
+- Stand der Forschung auf einem bestimmten Gebiet erheben
+	- Beschreibung der Literatur in narrativer Form (Text)
+	- Strukturierung der Inhalte nach geeigneten Kriterien
+	- Ggf. Bewertung der referierten Arbeiten
+- Beispiel: Überblick über aktuelle Forschungsarbeiten zum Einsatz von Maschinellem Lernen für Multiagentensysteme

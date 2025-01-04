@@ -1,0 +1,6 @@
+- Von Microsoft entwickelter Standard für verteilte Komponentenapplikationen
+- Soll COM-Standard auf Dauer ablösen
+- Basiert auf offenen Standards, z.B. Web-Services
+- Berücksichtigt Security und Privacy Aspekte
+- Device-unabhängig
+- [[NET Framework]]

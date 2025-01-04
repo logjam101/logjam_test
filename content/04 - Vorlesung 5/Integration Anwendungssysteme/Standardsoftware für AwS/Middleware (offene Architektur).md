@@ -1,0 +1,13 @@
+- Heute: Tendenz zu offenen Architekturen, d.h.: dass Systeme von unterschiedlichen Herstellern miteinander kombiniert werden sollen. Dazu wird Middleware verwendet
+	- Containertechnologie & Middleware = offene Architektur
+	- ERP-System = geschlossene Architektur
+- Middleware = Softwareschicht zwischen Systemsoftware & Anwendungssoftware
+- Vermittelt zwischen der Betriebssystemsoftware und den Anwendungen
+- Unterstützt die Realisierung verteilter Anwendungssysteme durch
+	- Bereitstellung höherer Dienste
+	- Standardisierung der Kommunikation zwisch einzelnen Komponenten (z.B.: EDI)
+	- Genormte APIs (Schnittstellen für die Programmierung)
+	- Integration von Software unterschiedlicher Anbieter
+- Technologien: CORBA, Enterprise Java Beans, COM, .NET, Web Services
+- Middleware liefert Grundlage für Componentware [[Componentenware für offene Systeme]]
+- 

@@ -1,0 +1,2 @@
+- Anwendungsarchitekturen = ausgehend von der Abbildung (z.B.: OpenOffice) soll genau 1 System abgeleitet werden [[Architektur]]
+- Referenzmodell = mehrere Objekte ableiten, unterschiedliche Anwendungssysteme können abgeleitet werden [[Referenzmodell]]

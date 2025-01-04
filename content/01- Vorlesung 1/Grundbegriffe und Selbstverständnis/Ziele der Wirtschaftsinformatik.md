@@ -1,0 +1,7 @@
+- **Gestaltungsaufgabe**
+	- (Weiter-) Entwicklung von Theorien, Methoden und Werkzeugen zur Gewinnung intersubjektiv überprüfbarer Erkenntnisse über IS (Intersubjektiv = es sind oft keine absoluten Wahrheiten gesucht, sondern ein Konsens zwischen versch. Personen. Konsens muss nicht für alle Zeiten gelten)
+	- gestaltungsorientierte Konstruktion von IS sowie die dafür notwendige (Weiter-) Entwicklung von Konzepten, Vorgehensweisen, etc.
+	- Erzielung eines Verständnisses und Erkenntnisse von Einsatz, Akzeptanz, Management von IS (Grenze von Gestaltungs- und Erklärungsaufgabe)
+- **Erklärungsaufgabe**
+	- Bewertung von Risiko-, Nutzen-, und Wirtschaftlichkeitsdimensionen bei Gestaltung und Einsatz von IS
+	- Prognose technischer und nichttechnischer Entwicklungen und Auswirkungen des Einsatzes von IS

@@ -1,0 +1,9 @@
+- Erweitert die bisherigen GPM-Diagramme um Symbole für:
+	- Ereignis- und Nachrichtensteuerung
+		- spezielle Symbole für Ereignisse und Nachrichten
+		- Ereignis und Nachrichtenaustausch erzeugt Kontrollfluss (Steuerfluss)
+		- Kontrollelemente: sequenzielle, parallele (&), alternative Ausführung (XOR)
+	- Betriebsmittelangabe
+		- Anwendungssoftware, Computer, Maschinen
+	- Menschliche Arbeitsleistung
+	- Zielfaktoren (Kundenzufriedenheit, Einhaltung des Zahlungsziels)

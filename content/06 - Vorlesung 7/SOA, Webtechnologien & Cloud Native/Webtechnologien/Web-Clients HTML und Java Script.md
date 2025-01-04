@@ -1,0 +1,11 @@
+- HTTP Client (Web Browser)
+	- Fordert HTML Seite vom Server an (via URL)
+	- Erzeugt Seite mit Text, Bilder, GUI-Elemente
+	- Rückübertragung von Werten in Eingabefeldern zum Server
+- Java Script:
+	- Script-Sprache in HTML integriert und vom Browser ausgeführt
+	- Problem: z.T. auf unterschiedlichen Browsern ungleich implementiert
+- Nachteil:
+	- nur einfache Client-Funktionen realisierbar
+	- Kommunikation bei jeder Benutzerinteraktion
+- Vorteil: kurze Downloadzeiten

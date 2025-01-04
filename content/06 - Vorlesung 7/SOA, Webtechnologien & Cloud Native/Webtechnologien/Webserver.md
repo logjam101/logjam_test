@@ -1,0 +1,9 @@
+- Bereitstellen von HTML Seiten
+- serverseitige Skripte ausführen (in HTML Code enthalten)
+	- Z.B.: SSI: Server Side Includes
+- starten externe Programme und steuern die Kommunikation mit diesen
+	- Laufen als separate Prozesse: z.B.: CGI
+	- Laufen im Kontext des Web Servers: z.B. Servlets
+- Logging Aufgaben
+- [[Kommunikation zwischen Web-Server und Client]]
+- [[Three-Tier-Architektur]]

@@ -1,0 +1,12 @@
+- Kommunikation zwischen JAVA Objekten in einer verteilten Umgebung
+	- Lokalisierung entfernter Objekte
+	- Kommunikation zwischen verteilten Objekten: Methodenaufruf, Übergabe von Argumenten und Resultaten
+- eingeschränkt auf die Sprache JAVA
+- Insgesamt ähnlich zu frühen RPC-Implementierungen: anstelle einer Prozedur wird eine Methode aufgerufen
+- Zusätzlich: Ortstransparenz durch Registry Service: kennt alle verfügbaren Objekte, die via RMI angesprochen werden können
+	- Unterstützung für die automatische Erzeugung von Stub und Skeleton-Klassen = automatische Serialisierung (anders als bei RPC: dort muss man es von Hand machen)
+### RMI Registry:
+- Registry weist einem Objekt einen Namen zu
+- Registry muss auf jedem Rechner existieren, der Server-Objekte bereitstellt
+- Server: Registriert ein Server-Objekt
+- Client: Fragt Registry nach einem Objekt

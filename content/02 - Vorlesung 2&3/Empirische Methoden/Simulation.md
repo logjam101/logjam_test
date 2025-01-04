@@ -1,0 +1,7 @@
+- Durchspielen von Szenarien anhand eines Simulationsmodells
+	- Deterministische Modelle (alle Daten sind mit Sicherheit bekannt)
+	- Stochastische Modelle (Daten mit Wsk-Werten, kann bei jedem Lauf variieren)
+- Beispiel: Simulation von Maschinenausfällen in einem Produktionsbetrieb und Messen der Durchlaufzeiten von Workflows im Modell
+- Was passiert z.B.: wenn Maschine 1 ausfällt?
+	- Auslastung von Maschine 2 wird steigen und es wird alles langsamer gehen
+	- Wenn aber Maschine 3 ausfällt, wird es zum Stillstand der Produktion von Schrauben kommen

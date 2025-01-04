@@ -1,0 +1,1 @@
+sind Informationssysteme ([[Informationssystem]]) in Wirtschaft und Geseltschaft, sowol von Organisationen als auch von Individuellen.

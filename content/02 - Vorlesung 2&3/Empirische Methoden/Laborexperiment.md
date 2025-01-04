@@ -1,0 +1,11 @@
+- Wie [[Feldexperiment]] jedoch mit 2 Unterschieden:
+	- Hypothesen über Kausalzusammenhänge werden in einer kontrollierten Umgebung erforscht (zum Beispiel einem Labor)
+	- Experimentator = Beobachter des Experiments & kann in dieses eingreifen (z.B. Anweisungen an die Testgruppen geben
+- Problem: Laborumgebung entspricht meistens nicht dem tatsächlichen Einsatzort
+	- Eingriff des Experimentators kann Ergebnisse verfälschen
+- Forschende geben Vorgaben „Drücken Sie auf den Knopf“/ „Wählen sie zwischen xyz“
+- Beispiel: Milgram-Experiment
+- Ziele:
+	- Daten erheben
+	- Prüfen, ob gewünschte Erwartungen beobachtbar sind
+	- Erkenntnisgewinn

@@ -1,0 +1,12 @@
+- Cloud-Dienst: im Web elektronisch verfügbarer Dienst, der keine Installation erfordert, sondern ad-hoc genutzt werden kann [[Cloud Services (Dienste)]]
+- Typische Beispiele:
+	- Doodle
+	- Google Apps (Google Drive, Kalender, E-Mail…)
+	- Speicherdienste (GoogleStorage, Amazon S3, Dropbox, Mongo DB…)
+	- Rechendienste
+- Cloud Computing = erlaubt die Bereitstellung und Nutzung von IT-Infrastruktur, von Plattformen und von Anwendungen aller Art als Cloud-Dienste
+- Ermöglicht die Bereitstellung von elektronischen Diensten (wie z.B. Rechenleistung oder Speicherkapazität)
+- [[Merkmale des Cloud Computing]]
+- [[Multi-Cloud]]
+- [[Cloud Native]]
+- [[Betriebsmodelle des Cloud Computing]]

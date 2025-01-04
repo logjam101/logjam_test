@@ -1,0 +1,5 @@
+- Prinzip der einheitlichen Dekomposition
+	- Zerlegung der Funktionen so, dass möglichst wenig Kommunikationsaufwand zwischen Aufgabenträgern entsteht
+- Anzahl der Unterfunktionen soll nicht zu stark schwanken
+- Granularität (Detaillierungsgrad) der Unterfunktionen soll homogen sein • Prinzip der Vollständigkeit
+- Darstellung der Hierarchien bis zur Elementarfunktion
